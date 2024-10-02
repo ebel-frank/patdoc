@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1074732104067",
+    "firebase_url": "https://patdoc-8e002-default-rtdb.firebaseio.com",
+    "project_id": "patdoc-8e002",
+    "storage_bucket": "patdoc-8e002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074732104067:android:1dede3d9b98d0e62aa9eb6",
+        "android_client_info": {
+          "package_name": "com.horizons.patdoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0znvhLtb3gggmCyDiKVJUcHpAxMFT3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074732104067:android:e33b95ceef921e87aa9eb6",
+        "android_client_info": {
+          "package_name": "com.horizons.patdoc.patdoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0znvhLtb3gggmCyDiKVJUcHpAxMFT3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
